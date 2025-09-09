@@ -7,7 +7,7 @@ I'm a Java developer who loves turning ideas into working applications. I enjoy 
 ## 💼 Tech Stack & Interests
 
 - ☕ **Java** — my main language
-- 🌐 **Spring Boot**, **Spring WebFlux**, **Spring Security**, **Spring MVC**, **Spring MVC**
+- 🌐 **Spring Boot**, **Spring WebFlux**, **Spring Security**, **Spring MVC**
 - 💾 **SQL**, **NoSQL**, **PostgreSQL**, **MongoDB**, **MySQL**, **MS SQL**, **SQLite**
 - ✅ **JUnit**, **Mockito**
 - 📦 **REST APIs**, **Microservices**, **Docker**
