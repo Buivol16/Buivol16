@@ -35,7 +35,6 @@ Banking app written in C# with basic account operations.
 
 ## 📬 Let's Connect
 
-- GitHub: [Buivol16](https://github.com/Buivol16)
 - Email: _xmaradenis54@gmail.com_
 - LinkedIn: _https://www.linkedin.com/in/denys-khmara/_
 
