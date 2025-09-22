@@ -35,7 +35,7 @@ Banking app written in C# with basic account operations.
 
 ## 🎶 My Inspiration Projects
 
-### 📈 [OptimaGrowth](https://github.com/Buivol16/optimagrowth) (UNDER THE BUILDING🏗️)
+### 📈 [OptimaGrowth](https://github.com/Buivol16/optimagrowth) (UNDER CONSTRUCTION🏗️)
 The Java Spring Boot Application is built on a microservice architecture for the fictional company called Optima Growth.<br>
 Based on the book **Microservices in Action** by **Pereira Paulo**
 
