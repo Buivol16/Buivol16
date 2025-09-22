@@ -16,10 +16,10 @@ I'm a Java developer who loves turning ideas into working applications. I enjoy 
 
 ## 📌 Featured Projects
 
-### 💬 [LiveChat](https://github.com/Buivol16/LiveChat)
+### 💬 [LiveChat](https://github.com/Buivol16/LiveChat) (REWORKING🛠️)
 A real-time chat application built using Spring WebSocket.
 
-### 🌐 [livechat-browser-client](https://github.com/Buivol16/livechat-browser-client)
+### 🌐 [livechat-browser-client](https://github.com/Buivol16/livechat-browser-client) (REWORKING🛠️)
 A browser-based client for my LiveChat backend, written in TypeScript.
 
 ### 🐱 [Cat-Fact-Telegram-bot](https://github.com/Buivol16/Cat-Fact-Telegram-bot)
